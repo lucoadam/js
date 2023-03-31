@@ -1,5 +1,26 @@
 # @thirdweb-dev/wallets
 
+## 0.2.12
+
+### Patch Changes
+
+- Updated dependencies [[`1137a20d`](https://github.com/thirdweb-dev/js/commit/1137a20de44603d35e71eae2f2b6fec79febec00)]:
+  - @thirdweb-dev/chains@0.1.10
+
+## 0.2.11
+
+### Patch Changes
+
+- Updated dependencies [[`839fce1f`](https://github.com/thirdweb-dev/js/commit/839fce1f6f2747d6102033b26c292294e908f75d)]:
+  - @thirdweb-dev/chains@0.1.9
+
+## 0.2.10
+
+### Patch Changes
+
+- Updated dependencies [[`9b303829`](https://github.com/thirdweb-dev/js/commit/9b3038291d1c9f4eb243718a6070e3dac829a354)]:
+  - @thirdweb-dev/chains@0.1.8
+
 ## 0.2.9
 
 ### Patch Changes
